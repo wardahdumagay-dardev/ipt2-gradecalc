@@ -8,7 +8,7 @@ It computes a final grade (30% prelim, 30% midterm, 40% finals) and a PASSED/FAI
 
 ## Team
 
-Team description: (one sentence about your team – BOTH partners edit THIS line in Activity 1)
+Team description: A collaborative development team building a user-friendly grade calculator application for our Integrative Programming and Technologies 2 (IPT2) course.
 
 | Role      | Name | GitHub username |
 |-----------|------|-----------------|
