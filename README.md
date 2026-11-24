@@ -12,12 +12,11 @@ It computes a final grade (30% prelim, 30% midterm, 40% finals) and a PASSED/FAI
 
 g
 Team description: A collaborative development team building a user-friendly grade calculator application for our Integrative Programming and Technologies 2 (IPT2) course.
->>>>>>> 5ecc289436ba48b5ac5d13c284b36bc467e4569e
 
 | Role      | Name | GitHub username |
 |-----------|------|-----------------|
-| Partner A |      |                 |
-| Partner B |      |                 |
+| Partner A |   Wardah Dumagay   |         wardahdumagay-dardev        |
+| Partner B |  Lady leyn Ladaga    |     ladyleyn            |
 
 ## How to run the tests
 
